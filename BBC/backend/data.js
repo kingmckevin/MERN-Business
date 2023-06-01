@@ -30,7 +30,7 @@ const data = {
       category: 'shoes',
       image: '/images/airjordan1high.jpg',
       price: 10000,
-      countInStock: 5,
+      countInStock: 0,
       brand: 'Nike',
       rating: 4,
       numReviews: 10,
