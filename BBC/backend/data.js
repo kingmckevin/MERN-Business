@@ -1,0 +1,41 @@
+const data = {
+  products: [
+    {
+      name: 'Air Jordan 1 Low',
+      slug: 'air-jordan1-low',
+      category: 'shoes',
+      image: '/images/airjordan1low.jpg',
+      price: 5000,
+      countInStock: 5,
+      brand: 'Nike',
+      rating: 5,
+      numReviews: 10,
+      description: 'High Quality Jordans',
+    },
+    {
+      name: 'Air Jordan 1 Mid',
+      slug: 'air-jordan1-mid',
+      category: 'shoes',
+      image: '/images/airjordan1mid.jpg',
+      price: 7000,
+      countInStock: 5,
+      brand: 'Nike',
+      rating: 5,
+      numReviews: 10,
+      description: 'High Quality Jordans',
+    },
+    {
+      name: 'Air Jordan 1 High',
+      slug: 'air-jordan1-high',
+      category: 'shoes',
+      image: '/images/airjordan1high.jpg',
+      price: 10000,
+      countInStock: 5,
+      brand: 'Nike',
+      rating: 5,
+      numReviews: 10,
+      description: 'High Quality Jordans',
+    },
+  ],
+};
+export default data;
