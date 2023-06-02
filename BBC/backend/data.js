@@ -1,6 +1,7 @@
 const data = {
   products: [
     {
+      _id: '1',
       name: 'Air Jordan 1 Low',
       slug: 'air-jordan1-low',
       category: 'shoes',
@@ -13,6 +14,7 @@ const data = {
       description: 'High Quality Jordans',
     },
     {
+      _id: '2',
       name: 'Air Jordan 1 Mid',
       slug: 'air-jordan1-mid',
       category: 'shoes',
@@ -25,6 +27,7 @@ const data = {
       description: 'High Quality Jordans',
     },
     {
+      _id: '3',
       name: 'Air Jordan 1 High',
       slug: 'air-jordan1-high',
       category: 'shoes',
