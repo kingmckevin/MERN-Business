@@ -84,3 +84,7 @@
     iii. create seed route
     iv. use route in server.js
     v. seed sample product
+21. Seed Sample Users
+    i. create user Model
+    ii. seed sample users
+    iii. create user routes
